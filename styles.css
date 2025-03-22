@@ -1,0 +1,7 @@
+ /* Estilos adicionales para la vista previa */
+ #preview strong {
+    font-weight: bold;
+}
+#preview em {
+    font-style: italic;
+}
