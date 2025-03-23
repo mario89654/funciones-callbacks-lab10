@@ -5,3 +5,13 @@
 #preview em {
     font-style: italic;
 }
+
+.resaltado {
+    background-color: #1e293b; /* slate-800 */
+    color: #facc15; /* amber-400 */
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    display: block;
+    overflow-x: auto;
+}
+
